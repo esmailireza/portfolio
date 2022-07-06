@@ -78,7 +78,7 @@ const Sidebar = (props) => {
         style={{ marginLeft: "-1rem", marginRight: "-1rem" }}
       >
         <div className="flex items-center justify-center">
-          <GoLocation className="mb-1 mr-2" /> <span>Tehran,Iran</span>
+          <GoLocation className="mb-1 mr-2" /> <span>Iran</span>
         </div>
         <p className="mx-2 mb-1"> esmailireza20@gmail.com </p>
         <p className="mx-2 mb-1"> +989372662709 </p>
