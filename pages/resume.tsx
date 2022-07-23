@@ -21,7 +21,7 @@ const Resume = () => {
         <div>
           <h5 className="my-3 text-2xl font-bold">Experience</h5>
           <div className="">
-            <h5 className="my-2 text-xl font-bold">Frontend developer at <a style={{ textDecoration: "none" }} href="https://tadbirnegar.ir/">Tadbirnegar</a> </h5>
+            <h5 className="my-2 text-xl font-bold">Frontend developer at Tadbirnegar</h5>
             <p className="font-semibold">Full Time - Sep 2020 - Nov 2021</p>
             <p className="my-3">Frontend developer at Tadbirnegar</p>
           </div>
